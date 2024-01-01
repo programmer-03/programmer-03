@@ -19,11 +19,11 @@
 
   - 🌱 I’m currently learning **Java**
 
-  - 👨‍💻 All of my projects are available at [My Github](https://github.com/programmer-03)
+  - 👨‍💻 All of my projects are available at [my Github](https://github.com/programmer-03)
 
   - 💬 Ask me about **Python & C Programming, Tech**
 
-  - 📫 How to reach me **engineeringstudies247@gmail.com**
+  - 📫 Reach out to me through [my email](https://engineeringstudies247@gmail.com)
 
   - ⚡ Fun fact **By day, I'm a code maestro weaving Python and C spells; by night, a tech geek sculpting digital wonders and unleashing magic in the tech cosmos! 🌟**
 
