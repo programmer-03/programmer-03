@@ -31,6 +31,8 @@
   <p align="left">
   <a href="https://in.linkedin.com/in/aryan-giri-852a0a259" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="aryan giri" height="55" width="60" /></a> 
   <a href="https://github.com/programmer-03" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="aryan giri" height="40" width="40" /></a>
+  <a href="https://github.com/aryangiri03" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="aryan giri" height="40" width="40" /></a>
+  <a href="https://github.com/programmer-03" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="aryan giri" height="40" width="40" /></a>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
