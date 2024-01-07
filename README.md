@@ -17,7 +17,7 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-03&label=Profile%20views&color=0e75b6&style=flat" alt="programmer-03" /> </p>
 
-  - 🌱 I’m currently learning **Java, SQL, **
+  - 🌱 I’m currently learning Java, SQL
 
   - 👨‍💻 All of my projects are available at [my Github](https://github.com/programmer-03)
 
