@@ -33,6 +33,8 @@
   <a href="https://github.com/programmer-03" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="aryan giri" height="40" width="40" /></a>
   <a href="https://github.com/aryangiri03" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="aryan giri" height="40" width="40" /></a>
   <a href="https://replit.com/@engineeringstu3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/2048px-New_Replit_Logo.svg.png" alt="aryan giri" height="40" width="40" /></a>
+      <a href="https://auth.geeksforgeeks.org/user/aryangiri03" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="aryan giri" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com/users/23186353/aryan-giri?tab=profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="aryan giri" height="40" width="40" /></a>
   </p>
 
   <h3 align="left">Languages and Tools:</h3>
